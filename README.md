@@ -1,2 +1,6 @@
 # hello-world
-My first
+
+My first repository
+
+## all about Auro
+
